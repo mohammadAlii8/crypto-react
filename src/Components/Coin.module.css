@@ -18,7 +18,7 @@
 
 .name {
   width: 140px;
-  font-size: 14xp;
+  font-size: 14px;
   margin-left: 15px;
   text-align: left;
   font-weight: bold;
@@ -49,3 +49,4 @@
 .greenPriceChange {
   color: rgb(0, 204, 0);
 }
+
